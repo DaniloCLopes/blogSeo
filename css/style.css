@@ -58,4 +58,12 @@ main header .headerLinks{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 32px;
+}
+main header .headerLinks a {
+    text-decoration: none;
+}
+main header .headerLinks a li{
+    color: #000000;
+    
 }
